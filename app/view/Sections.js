@@ -10,7 +10,7 @@ Ext.define('App.view.Sections', {
     
     config: {
         title: 'Street Med Lite',
-        useTitleAsBackText: false,
+        useTitleAsBackText: true,
         onItemDisclosure: true,
         store: 'Sections',
         detailCard: {

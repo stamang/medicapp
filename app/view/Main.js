@@ -59,8 +59,8 @@ Ext.define("App.view.Main", {
                 ].join("")
             },
            {
-                title: 'Wiki',
-                iconCls: 'more',
+                title: 'More Info',
+                iconCls: 'info',
                 
                 styleHtmlContent: true,
                 scrollable: true,
